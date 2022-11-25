@@ -15,4 +15,4 @@ https://abrown7-edx.github.io/challenge-module-1/
 
 ### Screenshot
 
-![screenshot of module 1 challenge](assets/images/screenshot.png)
+![screenshot of module 1 challenge](assets/images/screenshot.PNG)
